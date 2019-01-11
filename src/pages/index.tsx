@@ -68,10 +68,10 @@ export default class IndexPage extends React.Component<PageProps> {
               <HomepageContent center={true}>
                 <img src={config.siteLogo} />
                 <h1>
-                  Hi. I am <br />
-                  Majid Hajian
+                  Howdy, I'm <br />
+                  Alex Welcing.
                 </h1>
-                <p>I write about JavaScript, Angular, Ember, React, Vue, GlimmerJs, NodeJs, Rails, Go, Gatsby and ...</p>
+                <p>A curious technologist, not afraid of cold calls, stand-ups, or asking for the business.</p>
                 <Link to="/contact">
                   <Button big={true}>
                     <svg width="1792" height="1792" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg">
@@ -94,9 +94,7 @@ export default class IndexPage extends React.Component<PageProps> {
               <HomepageContent>
                 <h2>About Me</h2>
                 <p>
-                  Though I am a results-driven front-end developer by day who have converted inactive designs to fully interactive,
-                  well-developed, accessible and standards-based user interfaces. I am completely enthusiast with a full stack environment
-                  and passionate about JavaScript world.
+                  I professionally communicate disruptive ideas and technology. Laser focused on BD and DevOps, currently building solutions using AI in publishing and healthcare to provide deep analysis at scale for public and executive audiences.
                 </p>
                 <hr />
                 <h2>Latest Blog</h2>
