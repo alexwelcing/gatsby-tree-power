@@ -1,0 +1,25 @@
+---
+label: Case Studies
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: textarea
+  name: paragraph
+  label: Paragraph
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+    required: true
+- type: file
+  name: media_upload
+  label: Media Upload
+  description: Print Copy of Case Study
+- type: image_gallery
+  name: gallery
+  label: Gallery
