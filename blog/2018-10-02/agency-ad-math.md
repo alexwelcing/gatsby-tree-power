@@ -9,4 +9,6 @@ gallery:
 date: 2019-01-28 16:07:13 +0000
 
 ---
-Working with Tracey Locke, the Goody Goody rebranding process resulted in a unified look for 25+ retail locations. Texans were re-introduced to the 50 year old brand with a year long blitz across Print, OOH, Digital, and Radio. 
+Working with Tracey Locke, the Goody Goody rebranding process resulted in a unified look for 25+ retail locations. Texans were re-introduced to the 50 year old brand with a year long blitz across Print, OOH, Digital, and Radio.
+
+![](/uploads/GG-Image.PNG)
