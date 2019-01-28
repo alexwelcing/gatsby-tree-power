@@ -23,3 +23,5 @@ fields:
 - type: image_gallery
   name: gallery
   label: Gallery
+pages:
+- blog/2018-10-02/agency-ad-math.md
