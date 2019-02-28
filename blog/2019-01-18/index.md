@@ -25,3 +25,5 @@ o 100% new revenue for Artificial Intelligence platform.
 ● Relationships are 70% C-Level or executive for enterprise, and owner for Tier 2+3 partners.
 
 ● 97% bonus attainment for automating sales process, managing CRM and forecasting revenue.
+
+---
